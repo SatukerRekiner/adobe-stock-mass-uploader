@@ -253,25 +253,8 @@ python opis_csv.py \
 
 ## Example Inputs & Outputs
 
-### Example image gallery
-
-> Replace these placeholders with real examples from your project.
-
-```md
-<p align="center">
-  <img src="./zdjecia/input_01.png" width="24%" />
-  <img src="./zdjecia/input_02.png" width="24%" />
-  <img src="./zdjecia/input_03.png" width="24%" />
-  <img src="./zdjecia/input_04.png" width="24%" />
-</p>
-```
-
-### Example `adobe_dane.csv` preview
-
-> Once you upload a real example CSV, replace the rows below with the first 3–5 records.
-
-| Filename | Title | Keywords | Category | Releases |
+| Input | Title | Keywords | Category | Releases |
 |---|---|---|---:|---|
-| input_01.png | Professional Trader Pointing at Stock Market Charts on Dual Monitors in Home Office | professional trader, stock market, market analysis, dual monitors, home office, investment, finance, business, technology, data visualization, charts, graphs, cryptocurrency, forex, stock trading, entrepreneur, professional, concentration, focus, strategy, economy, global finance, digital tools, software, application, wealth management, financial planning, risk management, trading platform, digital composition, photorealistic, mature man, executive, manager, corporate, remote work, modern workspace, financial technology, fintech, economic trends, data driven, investment strategy, digital assets, portfolio management, financial success, financial expert | 3 |  |
-| input_02.png | Tropical beach sunset with palm silhouettes and calm ocean | beach, sunset, tropical, ocean, palm trees, coastline, travel, vacation, landscape, paradise, island, nature, summer, sky, water, reflection, scenic, tourism, horizon, tranquil, evening, seascape, destination, outdoors, exotic, relaxation, sunlight, warm, clouds, shoreline, idyllic, serene, getaway, natural beauty, color, peaceful, sand, coastline view, wanderlust, leisure, holiday, environment, scenic view, calm, travel concept | 21 |  |
-| input_03.png | Close-up healthy salad bowl with fresh vegetables on wooden table | salad, healthy food, vegetables, fresh, nutrition, bowl, meal, diet, organic, lunch, tomato, cucumber, greens, natural, vegetarian, food photography, homemade, colorful, clean eating, ingredient, culinary, kitchen, balanced diet, wellness, delicious, appetizer, restaurant, lifestyle, gourmet, freshness, food concept, herbs, vegan, plate, table, rustic, dining, nutritious, preparation, healthy lifestyle, produce, cooking, eating, plant based, lunch idea | 7 |  |
+| ![](./zdjecia/input_01.png) | Professional Trader Pointing at Stock Market Charts on Dual Monitors in Home Office | professional trader, stock market, market analysis, dual monitors, home office, investment, finance, business, technology, data visualization, charts, graphs, cryptocurrency, forex, stock trading, entrepreneur, professional, concentration, focus, strategy, economy, global finance, digital tools, software, application, wealth management, financial planning, risk management, trading platform, digital composition, photorealistic, mature man, executive, manager, corporate, remote work, modern workspace, financial technology, fintech, economic trends, data driven, investment strategy, digital assets, portfolio management, financial success, financial expert | 3 |  |
+| ![](./zdjecia/input_02.png) | Energetic Woman Engaging in Virtual Conference Call from Stylish City Apartment | video conference, video call, online meeting, virtual meeting, telecommuting, teleconference, business, communication, technology, laptop, computer, woman, female, adult, city, skyline, sunset, modern apartment, luxury, lifestyle, remote work, work from home, presentation, webinar, entrepreneur, professional, corporate, global, connectivity, internet, cloud, remote team, collaboration, digital, success, urban, executive, leadership, sales, marketing, finance, remote office, smart home, elegant, sophisticated, digital composition, render, animated, expressive | 3 |  |
+| ![](./zdjecia/input_03.png) | Young Man Commuting on a Train, Browsing Files on His Smartphone with Headphones On | commute, commuting, train, subway, public transport, urban, city, travel, journey, passenger, man, male, young, smartphone, mobile phone, digital, technology, headphones, music, audio, entertainment, browsing, files, documents, cloud storage, connectivity, internet, modern, lifestyle, daily routine, busy, on the go, remote work, business, leisure, relaxation, focus, concentration, window, city view, transportation, communication, digital nomad, productivity, his | 20 |  |
