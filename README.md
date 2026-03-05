@@ -156,20 +156,6 @@ flowchart LR
 
 ---
 
-## Repository Structure
-
-```text
-.
-├── opis_csv.py
-├── zdjecia/
-│   ├── image_001.jpg
-│   ├── image_002.jpg
-│   └── ...
-└── adobe_dane.csv
-```
-
----
-
 ## Local Setup & Installation
 
 ### Prerequisites
